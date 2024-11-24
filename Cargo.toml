@@ -1,0 +1,13 @@
+[package]
+name = "mojo_unofficial"
+version = "0.1.0"
+edition = "2021"
+authors = ["stano"]
+publish = false
+description = "An unofficial support for Mojo in Zed"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+zed_extension_api = "0.2.0"
