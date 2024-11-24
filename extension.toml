@@ -1,0 +1,11 @@
+id = "mojo-unofficial"
+name = "Mojo (unofficial)"
+description = "Mojo support"
+version = "0.0.1"
+schema_version = 1
+authors = ["Stano"]
+repository = "https://github.com/freespirit/mz"
+
+[grammars.mojo]
+repository = "https://github.com/freespirit/tree-sitter-mojo"
+commit = "fb231abd48a6fa59db32e143ab7624cc97c75fd8"
