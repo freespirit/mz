@@ -1,6 +1,6 @@
 id = "mojo-unofficial"
-name = "Mojo (unofficial)"
-description = "Mojo support"
+name = "Mojo"
+description = "Mojo support (unofficial)"
 version = "0.0.1"
 schema_version = 1
 authors = ["stano"]
