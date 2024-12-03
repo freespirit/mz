@@ -161,6 +161,7 @@
 ] @operator
 
 [
+  "alias"
   "borrowed"
   "break"
   "continue"
