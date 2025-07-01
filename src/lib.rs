@@ -11,7 +11,7 @@ struct MojoExtension {
 impl zed::Extension for MojoExtension {
     fn new() -> Self {
         Self {
-            command: "magic".to_string(),
+            command: "pixi".to_string(),
             args: vec!["run".to_string(), "mojo-lsp-server".to_string()],
         }
     }

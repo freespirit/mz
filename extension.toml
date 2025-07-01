@@ -1,7 +1,7 @@
 id = "mojo-unofficial"
-name = "Mojo"
+name = "Mojo (unofficial)"
 description = "Mojo support (unofficial)"
-version = "0.0.1"
+version = "0.2.0"
 schema_version = 1
 authors = ["stano"]
 repository = "https://github.com/freespirit/mz"

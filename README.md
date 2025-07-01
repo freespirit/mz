@@ -28,7 +28,7 @@ And the configuration for the Mojo LSP:
 "lsp": {
         "mojo-lsp": {
             "binary": {
-                "path": "magic",
+                "path": "pixi",
                 "arguments": ["run", "mojo-lsp-server"]
             }
         }
